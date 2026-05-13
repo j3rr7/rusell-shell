@@ -2,7 +2,6 @@
 
 INSECURE MESS
 
-i use this inside my localnet, because i dont want to connect via rdp every time
-thx tho for visiting
+I use this on my local network because I don't want to connect via RDP every time. Thanks for stopping by.
 
 have fun coding :)
